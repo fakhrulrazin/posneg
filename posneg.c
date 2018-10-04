@@ -14,6 +14,6 @@ int main()
             printf("You entered a negative number.");
     }
     else
-        printf("You entered a positive number.");
+        printf("You entered a positive nuuumber.");
     return 0;
 }
